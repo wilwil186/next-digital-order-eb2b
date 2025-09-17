@@ -13,3 +13,4 @@ pnpm-lock.yaml
 .vercel/
 .DS_Store
 coverage/
+data.json
