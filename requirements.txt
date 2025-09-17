@@ -1,0 +1,16 @@
+# requirements.txt
+
+# Motor de procesamiento distribuido
+pyspark==3.5.1
+
+# Visualización
+matplotlib==3.9.2
+
+# Soporte para gráficos más bonitos (opcional, pero útil)
+seaborn==0.13.2
+
+# Utilidades generales de análisis (pandas se usa solo en resultados pequeños)
+pandas==2.2.2
+
+# Jupyter (para abrir notebooks)
+notebook==7.2.2
